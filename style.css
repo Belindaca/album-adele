@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background-color: white;
+    color: black;
+}
+
+header {
+    background-color: #78866b;
+    color: white;
+    height: 80px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+header ul {
+    margin:0;
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+    list-style: none;
+}
+
