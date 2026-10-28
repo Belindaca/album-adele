@@ -12,6 +12,7 @@ header {
     display: flex;
     background-color: white;
     color: black;
+    font-size: large;
     height: 80px;
     align-items: center;
     justify-content: center;
